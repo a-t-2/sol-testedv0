@@ -7,3 +7,6 @@ yarn-error.log
 out
 docs/venv
 package-lock.json
+
+build/*
+cache/*
